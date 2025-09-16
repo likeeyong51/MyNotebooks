@@ -12,7 +12,7 @@ var css =
         'max-width: 80%;' +
     '}' +
     '.tile-link {' +
-        'background-image: url(\'https://moodle.deakincollege.edu.au/draftfile.php/285861/user/draft/570989803/bg-image.png\') !important;' +
+        'background-image: url(\'https://moodle.deakincollege.edu.au/draftfile.php/285861/user/draft/74481229/bg-image.png?time=1757984265084\') !important;' +
         'background-origin: content-box !important;' +
         'background-clip: content-box !important;' +
         'background-size: cover;' +
@@ -127,3 +127,4 @@ setInterval(() => {
     }
 
 }, 850);
+
